@@ -1,0 +1,18 @@
+{
+  "name": "eighty-shades-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A cool 80's syntax theme. Blast the chiptune music and let's code!",
+  "keywords": [
+    "syntax",
+    "theme",
+    "eighties",
+    "retro",
+    "80s"
+  ],
+  "repository": "https://github.com/judbd/eighty-shades-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
